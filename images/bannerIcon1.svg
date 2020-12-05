@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 70 70" style="enable-background:new 0 0 70 70;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A76327;}
+	.st1{fill:#E78724;}
+	.st2{fill:#FDBB62;}
+	.st3{fill:#BD362C;}
+	.st4{fill:#DC6247;}
+	.st5{fill:#793630;}
+
+	.swap{
+		-webkit-animation: colorSwap 4s infinite linear;
+		   -moz-animation: colorSwap 4s infinite linear;
+			 -o-animation: colorSwap 4s infinite linear;
+				animation: colorSwap 4s infinite linear;
+	}
+
+	#XMLID_42_ {
+		animation-delay: 0s;
+	}
+	#XMLID_43_ {
+		animation-delay: 1s;
+	}
+	#XMLID_41_ {
+		animation-delay: 2s;
+	}
+	#XMLID_40_ {
+		animation-delay: 3s;
+	}
+
+	@keyframes colorSwap {
+		0% {
+			fill: #DC6247;
+		}
+		24% {
+			fill: #DC6247;
+		}
+		25% {
+			fill: #BD362C;
+		}
+		49% {
+			fill: #BD362C;
+		}
+		50% {
+			fill: #793630;
+		}
+		74% {
+			fill: #793630;
+		}
+		75% {
+			fill: #BD362C;
+		}
+		99% {
+			fill: #BD362C;
+		}
+		100% {
+			fill: #DC6247;
+		}
+	}
+
+	@-webkit-keyframes colorSwap {
+		0% {
+			fill: #DC6247;
+		}
+		24% {
+			fill: #DC6247;
+		}
+		25% {
+			fill: #BD362C;
+		}
+		49% {
+			fill: #BD362C;
+		}
+		50% {
+			fill: #793630;
+		}
+		74% {
+			fill: #793630;
+		}
+		75% {
+			fill: #BD362C;
+		}
+		99% {
+			fill: #BD362C;
+		}
+		100% {
+			fill: #DC6247;
+		}
+	}
+	@-moz-keyframes colorSwap {
+		0% {
+			fill: #DC6247;
+		}
+		24% {
+			fill: #DC6247;
+		}
+		25% {
+			fill: #BD362C;
+		}
+		49% {
+			fill: #BD362C;
+		}
+		50% {
+			fill: #793630;
+		}
+		74% {
+			fill: #793630;
+		}
+		75% {
+			fill: #BD362C;
+		}
+		99% {
+			fill: #BD362C;
+		}
+		100% {
+			fill: #DC6247;
+		}
+	}
+	@-o-keyframes colorSwap {
+		0% {
+			fill: #DC6247;
+		}
+		24% {
+			fill: #DC6247;
+		}
+		25% {
+			fill: #BD362C;
+		}
+		49% {
+			fill: #BD362C;
+		}
+		50% {
+			fill: #793630;
+		}
+		74% {
+			fill: #793630;
+		}
+		75% {
+			fill: #BD362C;
+		}
+		99% {
+			fill: #BD362C;
+		}
+		100% {
+			fill: #DC6247;
+		}
+	}
+</style>
+<g>
+	<g>
+		<polygon id="XMLID_47_" class="st0" points="50.4,5.1 43,5.1 43,22.2 50.4,22.2 		"/>
+		<g>
+			<g>
+				<polygon id="XMLID_46_" class="st1" points="27,5.1 19.6,5.1 19.6,22.2 27,22.2 				"/>
+				<path id="XMLID_45_" class="st1" d="M57.4,38.7L57.4,38.7c-3.9,0-7-3.1-7-7v-9.5H35v21.3v21.3h22.4V38.7z"/>
+			</g>
+			<path id="XMLID_44_" class="st2" d="M19.6,22.2v9.5c0,3.9-3.1,7-7,7l0,0v26.1H35V22.2H19.6z"/>
+		</g>
+	</g>
+	<polygon id="XMLID_43_" class="swap st3" points="35,40.2 35,47.6 47.2,47.6 47.2,40.2 	"/>
+	<polygon id="XMLID_42_" class="swap st4" points="35,40.2 22.8,40.2 22.8,47.6 35,47.6 	"/>
+	<polygon id="XMLID_41_" class="swap st5" points="35,57.4 47.2,57.4 47.2,47.6 35,47.6 35,52.5 	"/>
+	<rect id="XMLID_40_" x="22.8" y="47.6" class="st3 swap" width="12.2" height="9.8"/>
+</g>
+</svg>

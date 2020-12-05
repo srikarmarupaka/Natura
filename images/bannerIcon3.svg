@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 70 70" style="enable-background:new 0 0 70 70;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EDE8E7;}
+	.st1{fill:#DFD7D5;}
+	.st2{fill:#83C341;}
+	.st3{fill:#5DAD46;}
+	.st4{fill:#91421F;}
+	.st5{fill:#5B5B5B;}
+	.st6{fill:#454545;}
+
+	.grow{
+		-webkit-animation: growup 5s infinite linear;
+		   -moz-animation: growup 5s infinite linear;
+			 -o-animation: growup 5s infinite linear;
+				animation: growup 5s infinite linear;
+		-webkit-transform-origin: center;
+		   -moz-transform-origin: center;
+			 -o-transform-origin: center;
+				transform-origin: center;
+	}
+
+	@keyframes growup {
+		from {
+			transform: translateY(40%) scale(0.1);
+		}
+		50% {
+			transform: translateY(0%) scale(1);
+		}
+		to {
+			transform: translateY(40%) scale(0.1);
+		}
+	}
+
+	@-webkit-keyframes growup {
+		from {
+			-webkit-transform: translateY(40%) scale(0.1);
+		}
+		50% {
+			-webkit-transform: translateY(0%) scale(1);
+		}
+		to {
+			-webkit-transform: translateY(40%) scale(0.1);
+		}
+	}
+	@-moz-keyframes growup {
+		from {
+			-moz-transform: translateY(40%) scale(0.1);
+		}
+		50% {
+			-moz-transform: translateY(0%) scale(1);
+		}
+		to {
+			-moz-transform: translateY(40%) scale(0.1);
+		}
+	}
+	@-o-keyframes growup {
+		from {
+			-o-transform: translateY(40%) scale(0.1);
+		}
+		50% {
+			-o-transform: translateY(0%) scale(1);
+		}
+		to {
+			-o-transform: translateY(40%) scale(0.1);
+		}
+	}
+
+</style>
+<g>
+	<path id="XMLID_46_" class="st0" d="M35,3.3c-15.4,0-27.9,12.6-27.9,28v31.6h55.7V31.3C62.9,15.9,50.4,3.3,35,3.3z"/>
+	<path id="XMLID_45_" class="st1" d="M62.9,31.3v31.6H35V3.3C50.4,3.3,62.9,15.9,62.9,31.3z"/>
+	<g class="grow">
+		<path id="XMLID_44_" class="st2" d="M46.1,26c-4.8,0-8.9,2.6-11.1,6.4c-2.3-3.8-6.4-6.4-11.1-6.4H18v5.3C18,38.5,24.1,44,31.3,44 H35h3.7C45.9,44,52,38.5,52,31.3V26H46.1z"/>
+		<polygon id="XMLID_43_" class="st3" points="41.1,33.7 35,39.8 28.9,33.7 26.2,36.3 33,43.2 33,55 35,55 37,55 37,43.2 43.8,36.3"/>
+	</g>
+	<path id="XMLID_42_" class="st4" d="M38.7,52H35h-3.7c-5.1,0-9.3,3.9-9.3,9v2h13h13v-2C48,55.9,43.8,52,38.7,52z"/>
+	<rect id="XMLID_41_" x="3.3" y="59.1" class="st5" width="63.4" height="7.6"/>
+	<rect id="XMLID_40_" x="35" y="59.1" class="st6" width="31.7" height="7.6"/>
+</g>
+<g id="XMLID_47_">
+</g>
+<g id="XMLID_48_">
+</g>
+<g id="XMLID_49_">
+</g>
+<g id="XMLID_50_">
+</g>
+<g id="XMLID_51_">
+</g>
+<g id="XMLID_52_">
+</g>
+</svg>
